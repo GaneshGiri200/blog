@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ccc;
+}
+
+.container {
+    background-color: honeydew;
+    width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    color: rgb(33, 113, 194);
+    text-align: center;
+    padding: 20px 0;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+ul {
+    margin-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+
+ol {
+    padding-left: 20px;
+    list-style: lower-roman;
+}
+
+li{
+    margin-top: 5px;
+}
+
+span {
+    display: inline-block;
+    margin-left: 40px;
+    background-color: yellow;
+}
+
+
